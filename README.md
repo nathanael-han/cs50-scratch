@@ -7,4 +7,4 @@ CS50 Problem Set 0
 
 
 
-![Alt Text](https://github.com/nathanael-han/cs50-scratch/blob/main/project_snapshot.png)https://github.com/nathanael-han/cs50-scratch/blob/main/project_snapshot.png)
+![Alt Text](https://github.com/nathanael-han/cs50-scratch/blob/main/project_snapshot.png)
